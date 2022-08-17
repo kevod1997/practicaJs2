@@ -1,0 +1,10 @@
+body{
+    background: #202020;
+    color: white;
+}
+
+img{
+    display: flex;
+    flex-direction: column;
+    
+}
